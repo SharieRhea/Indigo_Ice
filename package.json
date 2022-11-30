@@ -16,6 +16,9 @@
         "url": "https://github.com/SharieRhea/purple-ice-theme.git",
         "type": "git"
     },
+	"publishConfig": {
+		"registry": "https://npm.pkg.github.com/sharie"
+	},
 	"categories": [
 		"Themes"
 	],
