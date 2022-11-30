@@ -1,16 +1,19 @@
-# purple-ice-theme README
+# Purple Ice Theme
 
-## Working with Markdown
+![Purple Ice Theme Example Image](/PurpleIceExample.jpeg)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Install
+    1. Click on "Install" above in Visual Studio Code Extensions tab.
+    2. In Visual Studio Code go to Settings -> Command Palette -> Preferences: Color Theme -> Select "Purple Ice Theme"
+    3. That's it! Enjoy :)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+# Features
 
-## For more information
+    1. Saturated blues and purples to add some color to your coding experience.
+    2. Dark background with high contrast text for easy reading.
+    3. No garish colors for any elements to avoid the "rainbow" effect of some themes (not that that's bad!).
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+# Info
 
-**Enjoy!**
+    1. Created by Sharie Rhea.
+    2. Created for my own personal use but I wanted to make it freely available as well! Feel free to fork and edit as much as you like but please give credit if used :)
