@@ -3,7 +3,7 @@
 	"displayName": "Purple Ice Theme",
 	"description": "A saturated blue and purple dark theme for VSC.",
 	"publisher": "shariemakesart",
-	"icon": "Purple Ice Icon.png",
+	"icon": "PurpleIceIcon.png",
 	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.73.0"
