@@ -1,0 +1,30 @@
+{
+	"name": "purple-ice-theme",
+	"displayName": "Purple Ice Theme",
+	"description": "A saturated blue and purple dark theme for VSC.",
+	"publisher": "shariemakesart"
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.73.0"
+	},
+	"author": {
+		"name": "Sharie Rhea",
+		"email": "sharierhea@gmail.com"
+	},
+	"repository": {
+        "url": "",
+        "type": "git"
+    }
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Purple Ice Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Purple Ice Theme-color-theme.json"
+			}
+		]
+	}
+}
