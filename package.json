@@ -13,7 +13,7 @@
 		"email": "sharierhea@gmail.com"
 	},
 	"repository": {
-        "url": "https://github.com/SharieRhea/purple-ice-theme.git",
+        "url": "https://github.com/SharieRhea/Indigo_Ice",
         "type": "git"
     },
 	"publishConfig": {
@@ -27,7 +27,7 @@
 			{
 				"label": "Purple Ice Theme",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Purple Ice Theme-color-theme.json"
+				"path": "./themes/indigo-ice-color-theme.json"
 			}
 		]
 	}
