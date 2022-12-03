@@ -1,0 +1,44 @@
+editor bg: #08041d
+sidebar bg: #05010f
+foreground: #cccccc
+active selection: #2627788f
+inactive selection: #0e1058c1
+line num: #425ef5
+active line num: #0e11e2
+whitespace chars: #cccccc30
+same content bg: #4548f552
+same content border: #4548f5
+range highlight: #0e105830
+range bg: #26277864
+link: #c360f0
+indentation guides: #ffffff0f
+active indentation guides: #ffffff1f
+ruler and borders: #202760
+error: #ff2a66
+error bg: #ff2a6616
+warning: #f5932c
+warning bg: #f5932c16
+info: #75ff9e
+info bg: #75ff9e16
+codelens: #777777
+widget highlight: #68bef7
+active sidebar bg: #0d0d38
+debugging bg: #140430
+git added: #a3ffbf
+git conflicting: #936bec
+git deleted: #ff6c95
+git ignored: #777777
+git modified: #f7a34a
+git staged deleted: #db4056
+git staged modified: #d16940
+git submodule: #8db9e2
+git untracked: #3665f2
+
+comments: #dbfbff
+keywords: #29cfd7
+strings: #3639ff
+variables: #4d82ff
+numbers: #6053f5
+classes: #8d4dff
+functions: #5714ff
+operators: #aff7ff

@@ -1,6 +1,6 @@
-# Purple Ice Theme
+# Indigo Ice Theme
 
-![Purple Ice Theme Example Image](/IndigoIceExample.jpeg)
+![Indigo Ice Theme Example Image](/IndigoIceExample.jpeg)
 
 ## Install
     1. Click on "Install" above in Visual Studio Code Extensions tab or Visual  
@@ -17,7 +17,7 @@
 
 ## Info
 
-    1. Created by Sharie Rhea using [Theme Studio for VS Code](https://themes.vscode.one)
+    1. Created by Sharie Rhea using https://themes.vscode.one
     2. Created for my own personal use but I wanted to make it freely available  
     as well! Feel free to fork and edit as much as you like but please give  
     credit if used in any publications :)

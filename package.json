@@ -1,10 +1,10 @@
 {
-	"name": "purple-ice-theme",
-	"displayName": "Purple Ice Theme",
+	"name": "indigo-ice-theme",
+	"displayName": "Indigo Ice",
 	"description": "A saturated blue and purple dark theme for VSC.",
 	"publisher": "shariemakesart",
-	"icon": "PurpleIceIcon.png",
-	"version": "0.0.2",
+	"icon": "IndigoIceIcon.png",
+	"version": "0.1.0",
 	"engines": {
 		"vscode": "^1.73.0"
 	},
@@ -25,7 +25,7 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Purple Ice Theme",
+				"label": "Indigo Ice",
 				"uiTheme": "vs-dark",
 				"path": "./themes/indigo-ice-color-theme.json"
 			}
