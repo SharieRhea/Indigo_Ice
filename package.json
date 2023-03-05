@@ -4,7 +4,7 @@
 	"description": "A saturated blue and purple dark theme for VSC.",
 	"publisher": "shariemakesart",
 	"icon": "IndigoIceIcon.png",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"engines": {
 		"vscode": "^1.73.0"
 	},
